@@ -8,7 +8,7 @@ import os
 st.set_page_config(page_title="Claim Assistant (Free)", layout="wide")
 
 # --- HARDCODED API KEY ---
-GEMINI_FREE_KEY = "PASTE_YOUR_GEMINI_KEY_HERE"
+GEMINI_FREE_KEY = "AQ.Ab8RN6JKOF3fr3F4dV_NjAY9ztnogike_t0PSe2xYb6_AKRe8g"
 
 # Configure the AI
 genai.configure(api_key=GEMINI_FREE_KEY)
